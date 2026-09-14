@@ -92,6 +92,7 @@ python main.py
 ├─ main.py                        # 桌面程序
 ├─ start.bat                      # 可显示错误的启动入口
 ├─ 启动程序.vbs                   # 无控制台窗口的启动入口
+├─ CHANGELOG.md                   # 版本更新记录
 ├─ LICENSE
 └─ README.md
 ```
