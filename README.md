@@ -1,3 +1,5 @@
+> **Chatgpt代充：[aishopvip.com](https://aishopvip.com)**
+
 # Word 文档批量删除工具
 
 [![Release](https://img.shields.io/github/v/release/jedliuai/batch-delete-word-files?display_name=tag&sort=semver)](https://github.com/jedliuai/batch-delete-word-files/releases/latest)
